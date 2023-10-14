@@ -1,0 +1,3 @@
+2023/08/14 10:03:19 [1;34m[I] [root.go:204] frps uses config file: ./frps.ini[0m
+2023/08/14 10:03:20 [1;34m[I] [service.go:206] frps tcp listen on 0.0.0.0:7000[0m
+2023/08/14 10:03:20 [1;34m[I] [root.go:213] frps started successfully[0m
